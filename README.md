@@ -16,9 +16,11 @@ In the current competitive landscape, effective sales management is essential fo
 ## TOOL: Power BI
 
 ### STEPS:
-__• Imported the cleaned data into Power BI.
-• Created calculated columns and measures to derive key performance metrics.
-• Designed interactive visuals to analyze and explore sales trends across regions, product categories, and time periods.__
+__• Imported the cleaned data into Power BI.__
+
+__• Created calculated columns and measures to derive key performance metrics.__
+
+__• Designed interactive visuals to analyze and explore sales trends across regions, product categories, and time periods.__
 
 ## DASHBOARD OVERVIEW :
 ### Graphs:
