@@ -24,13 +24,13 @@ __• Designed interactive visuals to analyze and explore sales trends across re
 
 ## DASHBOARD OVERVIEW :
 ### Graphs:
-#### Total Cost and Total Revenue by Region:
+__#### Total Cost and Total Revenue by Region:__
 • Created a clustered column chart that visually compares the total cost and total revenue for each region (e.g., Europe, North America, Pacific).
 • Used different colors for cost and revenue to enhance clarity.
-#### Total Profit by Region:
+__#### Total Profit by Region:__
 • Used a bar chart to display total profit for each region, highlighting which regions are the most profitable.
 • You can add data labels to show exact profit values for better insight.
-#### Units Sold by Sales Channel:
+__#### Units Sold by Sales Channel:__
 • Created a pie chart or a stacked bar chart to show the distribution of units sold across various sales channels (e.g., online, retail).
 • This will help visualize which channel contributes most to unit sales.
 
