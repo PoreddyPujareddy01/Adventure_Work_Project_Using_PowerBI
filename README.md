@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9ab15e1a-478b-4ec0-bd3f-d8d215dd6e2a)# Adventure_Work_Project_Using_PowerBI
+# Adventure_Work_Project_Using_PowerBI
 
 ## OBJECTIVE: 
 The objective of this Adventure Works Sales Analysis is to uncover key sales trends and performance metrics to optimize business strategies and enhance decision-making.
