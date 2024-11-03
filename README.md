@@ -37,19 +37,20 @@ __• Designed interactive visuals to analyze and explore sales trends across re
 • This will help visualize which channel contributes most to unit sales.
 
 ### KEY PERFORMANCE INDICATORS :
-• Maximum Unit Price:
-   Display this as a card visualization showing the highest selling price of units sold within the dataset.
-• Minimum Unit Price:
-   Another card visualization that shows the lowest selling price for units sold.
-• Total Revenue:
-   A KPI card that presents the overall income generated from all sales, helping track performance 
-   against targets.
-• Total Profit:
-  Display this as a KPI card that indicates the net profit after deducting costs from revenue.
-• Total Cost:
-  A KPI card that captures the total expenditures related to sales, providing insight into spending versus revenue.
-• Sales:
-  Show this as a total count of sales, represented in a card visualization, indicating the total number of transactions mad.
+
+#### • Maximum Unit Price:
+Display this as a card visualization showing the highest selling price of units sold within the dataset.
+#### • Minimum Unit Price:
+Another card visualization that shows the lowest selling price for units sold.
+#### • Total Revenue:
+A KPI card that presents the overall income generated from all sales, helping track performance 
+against targets.
+#### • Total Profit:
+Display this as a KPI card that indicates the net profit after deducting costs from revenue.
+#### • Total Cost:
+A KPI card that captures the total expenditures related to sales, providing insight into spending versus revenue.
+#### • Sales:
+Show this as a total count of sales, represented in a card visualization, indicating the total number of transactions mad.
 
   ### ADVENTURE WORKS DASHBOARD VIDEO :
   
@@ -77,7 +78,7 @@ https://github.com/user-attachments/assets/68d3e1ab-ca1e-420f-860a-b0ffb93c93c2
 •Used a card visualization to highlight how much revenue is generated per unique customer, 
  showcasing the value of each customer.
 
- ## CONCLUSION :
+## CONCLUSION :
 The AdventureWorks project delivered critical insights into revenue, profit, and sales performance across regions and channels. With a total revenue of $137 million, Sub-Saharan Africa led in profitability, contributing $12.2 million. Offline channels dominated with 53.97% of sales, while Sao Tome and Principe and cosmetics emerged as top performers in revenue and unit sales, respectively. The Power BI dashboards enabled clear visualization of these trends, offering a strategic foundation for data-driven decision-making. This project highlights key opportunities for growth and channel optimization at AdventureWorks.
 
 
