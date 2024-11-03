@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a667b2d7-df69-4f50-b287-99af7a9cf1c4)![image](https://github.com/user-attachments/assets/fde54b66-4dc5-4f0b-a843-9b6557b31bcc)# Adventure_Work_Project_Using_PowerBI
+![image](https://github.com/user-attachments/assets/9ab15e1a-478b-4ec0-bd3f-d8d215dd6e2a)# Adventure_Work_Project_Using_PowerBI
 
 ## OBJECTIVE: 
 The objective of this Adventure Works Sales Analysis is to uncover key sales trends and performance metrics to optimize business strategies and enhance decision-making.
@@ -49,6 +49,32 @@ __• Imported the cleaned data into Power BI.
 
   ### ADVENTURE WORKS DASHBOARD VIDEO :
   
+https://github.com/user-attachments/assets/68d3e1ab-ca1e-420f-860a-b0ffb93c93c2
+
+### KEY FINDINGS :
+
+#### Total Revenue:
+•$24.9 million
+•Displays this as a prominent KPI card in your dashboard to highlight overall sales performance.
+#### Total Profit:
+•$10.5 million
+•Included this another KPI card to indicate the net profit generated.
+#### Total Orders:
+•25.2K (25,200 orders)
+•Visualized this using a simple card or bar chart to showcase the volume of orders placed.
+#### Return Rate:
+•2.2%
+•This displayed in a gauge chart or as a KPI indicator, providing insight into product return behavior.
+#### Unique Customers:
+•17.4K (17,400 unique customers)
+•Represented this as a KPI card to indicate the breadth of your customer base.
+#### Revenue per Customer:
+•$1,431
+•Used a card visualization to highlight how much revenue is generated per unique customer, 
+ showcasing the value of each customer.
+
+ ## CONCLUSION :
+The AdventureWorks project delivered critical insights into revenue, profit, and sales performance across regions and channels. With a total revenue of $137 million, Sub-Saharan Africa led in profitability, contributing $12.2 million. Offline channels dominated with 53.97% of sales, while Sao Tome and Principe and cosmetics emerged as top performers in revenue and unit sales, respectively. The Power BI dashboards enabled clear visualization of these trends, offering a strategic foundation for data-driven decision-making. This project highlights key opportunities for growth and channel optimization at AdventureWorks.
 
 
 
