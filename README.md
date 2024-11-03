@@ -39,18 +39,18 @@ __• Designed interactive visuals to analyze and explore sales trends across re
 ### KEY PERFORMANCE INDICATORS :
 
 #### • Maximum Unit Price:
-Display this as a card visualization showing the highest selling price of units sold within the dataset.
+Displays this as a card visualization showing the highest selling price of units sold within the dataset.
 #### • Minimum Unit Price:
 Another card visualization that shows the lowest selling price for units sold.
 #### • Total Revenue:
 A KPI card that presents the overall income generated from all sales, helping track performance 
 against targets.
 #### • Total Profit:
-Display this as a KPI card that indicates the net profit after deducting costs from revenue.
+Displays this as a KPI card that indicates the net profit after deducting costs from revenue.
 #### • Total Cost:
 A KPI card that captures the total expenditures related to sales, providing insight into spending versus revenue.
 #### • Sales:
-Show this as a total count of sales, represented in a card visualization, indicating the total number of transactions mad.
+Shows this as a total count of sales, represented in a card visualization, indicating the total number of transactions mad.
 
   ### ADVENTURE WORKS DASHBOARD VIDEO :
   
